@@ -1,11 +1,11 @@
 # Site settings
-author: Ingrid sura
-title: 
+author: Ingrid S
+title: Balancing Coding
 header-img: img/home-bg.png
 email: sura.ingrid@gmail.com
-copyright_name: Ingrid sura
+copyright_name: Ingrid S
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Balancing the art of coding and why I started.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  ingridsu
